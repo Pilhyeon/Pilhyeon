@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi, I'm Pilhyeon Lee.
 
-<!--
-**Pilhyeon/Pilhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Ph.D. student at Yonsei University, Korea.
+I worked as a research intern in Microsoft Research Asia, China.
+I received the B.S. degree at Chung-Ang University, Korea.
+My research interests include computer vision, deep learning, video understanding, and weakly-supervised learning.
 
-Here are some ideas to get you started:
+### 📓 Publications
+1. P Lee, J Wang, Y Lu, H Byun. "[Background Modeling via Uncertainty Estimation for Weakly-supervsied Action Localization](https://arxiv.org/abs/2006.07006)", *Under review*. [[code](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)]
+2. P Lee, Y Uh, H Byun. [Background Suppression Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/1911.09963), AAAI, 2020. [[code](https://github.com/Pilhyeon/BaSNet-pytorch)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+- C/C++
+- Python
+- OpenCV
+- Tensorflow
+- Pytorch
