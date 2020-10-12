@@ -6,8 +6,9 @@ I received the B.S. degree at Chung-Ang University, Korea.
 My research interests include computer vision, deep learning, video understanding, and weakly-supervised learning.
 
 ### 📓 Publications
-1. P Lee, J Wang, Y Lu, H Byun. "[Background Modeling via Uncertainty Estimation for Weakly-supervsied Action Localization](https://arxiv.org/abs/2006.07006)", *Under review*. [[code](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)]
-2. P Lee, Y Uh, H Byun. "[Background Suppression Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/1911.09963)", AAAI, 2020. [[code](https://github.com/Pilhyeon/BaSNet-pytorch)]
+1. P Lee, J Wang, Y Lu, and H Byun. "[Background Modeling via Uncertainty Estimation for Weakly-supervsied Action Localization](https://arxiv.org/abs/2006.07006)", *Under review*. [[code](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)]
+2. S Hwang*, S Park*, P Lee*, S Jeon, D Kim, and H Byun. "Exploiting Transferable Knowledge for Fairness-aware Image Classification", ACCV, 2020. (* equal contributions) 
+3. P Lee, Y Uh, and H Byun. "[Background Suppression Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/1911.09963)", AAAI, 2020. [[code](https://github.com/Pilhyeon/BaSNet-pytorch)]
 
 ### 💻 Languages
 - C/C++
