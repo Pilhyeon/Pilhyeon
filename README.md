@@ -20,3 +20,5 @@ My research interests include computer vision, deep learning, video understandin
 - OpenCV
 - Tensorflow
 - Pytorch
+
+![Pilhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilhyeon&show_icons=true&hide_border=True&include_all_commits=True&hide=prs)
