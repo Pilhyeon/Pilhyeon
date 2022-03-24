@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Pilhyeon Lee.
 
-I'm currently a Ph.D. student at Yonsei University, Korea.
-I worked as a research intern in Microsoft Research Asia, China.
+I am currently a Ph.D. student at Yonsei University, Korea.
+Also, I am collaborating as a visiting researcher with the video understanding team at CLOVA AI research, Korea.
+In the past, I worked as a research intern in Microsoft Research Asia, China.
 I received the B.S. degree at Chung-Ang University, Korea.
 My research interests include computer vision, deep learning, video understanding, and weakly-supervised learning.
 
