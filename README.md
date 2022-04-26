@@ -7,7 +7,7 @@ I received the B.S. degree at Chung-Ang University.
 My research interests include computer vision, deep learning, video understanding, and weakly-supervised learning.
 
 ### 📓 Publications
-1. S Park, J Lee, **P Lee**, S Hwang, D Kim, and H Byun "[Fair Contrastive Learning for Facial Attribute Classification](https://github.com/Pilhyeon)", CVPR, 2022.
+1. S Park, J Lee, **P Lee**, S Hwang, D Kim, and H Byun "[Fair Contrastive Learning for Facial Attribute Classification](https://arxiv.org/pdf/2203.16209.pdf)", CVPR, 2022.
 2. **P Lee**, S Hwang, J Lee, M Shin, S Jeon, and H Byun "[Inter-subject Contrastive Learning for Subject Adaptive EEG-based Visual Recognition](https://arxiv.org/pdf/2202.02901.pdf)", BCI, 2022.
 3. **P Lee**, S Hwang, S Jeon, and H Byun "[Subject Adaptive EEG‑based Visual Recognition](https://arxiv.org/pdf/2110.13470.pdf)", ACPR, 2021.
 4. **P Lee** and H Byun. "[Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2108.05029.pdf)", ICCV, 2021. (Oral)
