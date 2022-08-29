@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Pilhyeon Lee.
+### 👋 Hi, I'm Pilhyeon Lee (이필현).
 
 I am currently a Ph.D. student at Yonsei University.
 Also, I am collaborating as a visiting researcher with the video understanding team at CLOVA AI research.
