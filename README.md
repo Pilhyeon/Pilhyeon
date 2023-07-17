@@ -1,12 +1,14 @@
 ### 👋 Hi, I'm Pilhyeon Lee (이필현).
 
 I am currently a Ph.D. student at Yonsei University.
-Also, I am collaborating as a visiting researcher with the video understanding team at CLOVA AI research.
-In the past, I worked as a research intern in Microsoft Research Asia.
-I received the B.S. degree at Chung-Ang University.
-My research interests include computer vision, deep learning, video understanding, and weakly-supervised learning.
+In the past, I collaborated as a visiting researcher with the video understanding team at CLOVA AI research, Naver Corporation.
+Also, I was fortunate to work as a research intern at Microsoft Research Asia.
+I received my B.S. degree at Chung-Ang University.
+My research interests include computer vision, video understanding, multimodal learning, and weakly-supervised learning.
 
 ### 📓 Publications (selected)
+- K Hong, S Jeon, J Lee, N Ahn, K Kim, **P Lee**, D Kim, Y Uh, and H Byun "[AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](https://github.com/Pilhyeon)", ICCV, 2023.
+- S Jeon, B Liu, **P Lee**, K Hong, J Fu, and H Byun "[Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations](https://github.com/Pilhyeon)", ICCV, 2023.
 - **P Lee**, T Kim, M Shim, D Wee, and H Byun "[Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection](https://arxiv.org/pdf/2303.17285.pdf)", CVPR, 2023.
 - S Park, J Lee, **P Lee**, S Hwang, D Kim, and H Byun "[Fair Contrastive Learning for Facial Attribute Classification](https://arxiv.org/pdf/2203.16209.pdf)", CVPR, 2022.
 - **P Lee** and H Byun. "[Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2108.05029.pdf)", ICCV, 2021. (Oral)
