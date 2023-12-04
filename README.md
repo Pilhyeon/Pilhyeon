@@ -7,7 +7,7 @@ I received my B.S. degree at Chung-Ang University.
 My research interests include computer vision, video understanding, multimodal learning, and weakly-supervised learning.
 
 ### 📓 Publications (selected)
-- **P Lee**&dagger; and H Byun "[BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos](https://github.com/Pilhyeon)", arXiv, 2023.
+- **P Lee**&dagger; and H Byun "[BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos](https://arxiv.org/abs/2312.00083)", arXiv, 2023.
 - K Hong, S Jeon, J Lee, N Ahn, K Kim, **P Lee**, D Kim, Y Uh, and H Byun "[AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](https://arxiv.org/abs/2307.09724)", ICCV, 2023.
 - S Jeon, B Liu, **P Lee**, K Hong, J Fu, and H Byun "[Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations](https://arxiv.org/abs/2308.10554)", ICCV, 2023.
 - **P Lee**, T Kim, M Shim, D Wee, and H Byun "[Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection](https://arxiv.org/abs/2303.17285)", CVPR, 2023.
