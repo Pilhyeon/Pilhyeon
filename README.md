@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Pilhyeon Lee (이필현).
 
-I am currently a Ph.D. student at Yonsei University.
+I am currently working as a postdoctoral researcher at Yonsei University.
 In the past, I collaborated as a visiting researcher with the video understanding team at CLOVA AI research, Naver Corporation.
 Also, I was fortunate to work as a research intern at Microsoft Research Asia.
-I received my B.S. degree at Chung-Ang University.
+I received a Ph.D. degree from Yonsei University and a B.S. degree from Chung-Ang University.
 My research interests include computer vision, video understanding, multimodal learning, and weakly-supervised learning.
 
 ### 📓 Publications (selected)
