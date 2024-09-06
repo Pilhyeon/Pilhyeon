@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Pilhyeon Lee (이필현).
 
-I am currently working as a postdoctoral researcher at Yonsei University.
+I am an assistant professor at Inha University. 
+Before joining it, I worked as a postdoctoral researcher at Yonsei University.
 In the past, I collaborated as a visiting researcher with the video understanding team at CLOVA AI research, Naver Corporation.
 Also, I was fortunate to work as a research intern at Microsoft Research Asia.
 I received a Ph.D. degree from Yonsei University and a B.S. degree from Chung-Ang University.
